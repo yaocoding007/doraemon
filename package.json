@@ -5,6 +5,7 @@
   "main": "lib/main.umd.js",
   "module": "lib/main.esm.js",
   "typings": "lib/types/modules/index.d.ts",
+  "files": ["lib"],
   "scripts": {
     "build": "rollup --config && npm run doc",
     "test": "jest --no-cache",
