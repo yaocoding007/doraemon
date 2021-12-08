@@ -1,11 +1,13 @@
 {
   "name": "@doraemon/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "utils 简易函数库, 封装一些适用的工具函数。",
   "main": "lib/main.umd.js",
   "module": "lib/main.esm.js",
   "typings": "lib/types/modules/index.d.ts",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "rollup --config && npm run doc",
     "test": "jest --no-cache",
