@@ -2,7 +2,7 @@ import json from "rollup-plugin-json";
 import typescript from "rollup-plugin-typescript2";
 import sourceMaps from "rollup-plugin-sourcemaps";
 
-const libraryName = '@doraemon/utils'
+const libraryName = 'doraemon-js-utils'
 
 export default {
   input: "modules/index.ts",

@@ -1,5 +1,5 @@
 {
-  "name": "@doraemon/utils",
+  "name": "doraemon-js-utils",
   "version": "0.0.2",
   "description": "utils 简易函数库, 封装一些适用的工具函数。",
   "main": "lib/main.umd.js",
