@@ -4,7 +4,7 @@
 
 ```shell
 // npm
-npm install @doraemon/utils
+npm install doraemon-js-utils
 ```
 
 # 命令
